@@ -1,0 +1,10 @@
+.reviewcard{
+    margin: 1vmax;
+    /* border: 1px solid green; */
+    background-color: white;
+    transition: all 0.5s;
+}
+.reviewcard:hover{
+    box-shadow: 0px 5px 10px black;
+    transform: translateY(-0.4vmax);
+}

@@ -1,0 +1,16 @@
+.hotaccessories{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.accessLink{
+    text-decoration: none;
+    color: black;
+    margin: 1.5vmax;
+    padding: 0.5vmax 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.accessLink:hover{
+    color: orangered;
+    border-bottom: 1px solid orangered;
+}

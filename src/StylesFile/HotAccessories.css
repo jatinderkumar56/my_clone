@@ -1,0 +1,17 @@
+.MainHotAccesories{
+    display: flex;
+    padding: 5vmax;
+}
+.MainHotAccesories > div:first-child > img{
+width: 22vw;
+transition: all 0.5s;
+cursor: pointer;
+}
+.MainHotAccesories >div:first-child>img:hover{
+    transform: translateY(-0.4vmax);
+    box-shadow: 0px 6px 15px black;
+}
+.HotAccesories{
+    display: flex;
+   flex-wrap: wrap;
+}

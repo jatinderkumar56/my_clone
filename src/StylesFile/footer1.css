@@ -1,0 +1,33 @@
+.footer1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1vmax;
+    margin: 5vmax 0 0 0;
+    background-color: white;
+}
+.footer1 > div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba((66), 66, 66, 0.829);
+    cursor: pointer;
+}
+.footer1>div p{
+    margin-top: 1vmax;
+    margin-left: 0.5vmax;
+}
+.footer1 > div p,svg{
+   
+    color: gray;
+    fill: gray;
+    
+}
+.footer1 > div:hover svg{
+ fill: rgb(34,34,34);
+ 
+}
+.footer1 > div:hover p{
+    color: rgb(34,34,34);
+    
+   }

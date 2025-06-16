@@ -1,0 +1,33 @@
+.HotAccessoriesCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20vmax;
+    background-color: white;
+    /* border: 1px solid black; */
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 1vmax;
+    border-radius: 5px;
+    
+}
+.HotAccessoriesCard:hover{
+    transform: translateY(-0.4vmax);
+    box-shadow: 0px 6px 15px grey;
+}
+.HotAccessoriesCard >img{
+    width: 70%;
+}
+.HotAccessoriesCard >p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey;
+    text-align: center;
+   
+}
+.HotAccessoriesCard >span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orangered;
+    text-align: center;
+}
+

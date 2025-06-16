@@ -1,0 +1,41 @@
+.mainfooter{
+    background-color:rgb(228,228,228);
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-around;
+    /* text-align: center; */
+    align-items: center;
+    height: 11vmax;
+    padding: 2vmax 0.5vmax 0  0.5vmax;
+}
+.mainfooter>div>p{
+    color: rgb(37,37,37);
+    font-size: 1.1vmax;
+}
+.mainfooter>div>span{
+    color: black;
+    font-size: 1.5vmax;
+    font-weight: 500;
+}
+.secondDiv > input{
+    /* border: none; */
+    outline: none;
+    padding: 0.5vmax 1vmax;
+    font-size: 1vmax;
+    width: 24vw;
+    height: 6vh;
+    margin-bottom: 0.5vmax;
+}
+.fourthDiv{
+    /* border: 1px solid black; */
+    width: 15vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.fourthDiv>svg{
+    fill: rgb(164,164,164);
+}
+.fourthDiv>svg:hover{
+    fill: rgb(37,37,37);
+}
