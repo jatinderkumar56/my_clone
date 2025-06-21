@@ -6,8 +6,8 @@ const AboveNavbar = () => {
   return (
     <div className='preNav'>
     <div className='preNav1'>
-    <a href="default.asp" target="_blank">MI PAKISTAN</a><span>|</span>
-    <a href="default.asp" target="_blank">GET MI STORE APP</a><span>|</span>
+    
+    <a href="default.asp" target="_blank">STORE APP</a><span>|</span>
     <a href="default.asp" target="_blank">ONLINE HELP</a><span>|</span>
     <a href="default.asp" target="_blank">RETAIL STORE</a>
     </div>

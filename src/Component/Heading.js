@@ -1,10 +1,10 @@
 import React from 'react'
 import '../StylesFile/heading.css'
-const Heading = ({title}) => {
+const Heading = ({title,className}) => {
   return (
     <div className='heading'>
     <div></div>
-      <p>{title}</p>
+      <p className={`${className}`}>{title}</p>
     <div></div>
     </div>
   )

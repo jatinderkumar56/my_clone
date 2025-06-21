@@ -17,6 +17,41 @@
     font-size: 1.5vmax;
     font-weight: 500;
 }
+@media screen and (max-width: 768px) {
+   .mainfooter{
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+   }
+   .firstdiv{
+    text-align: center;
+   }
+   .secondDiv{
+    text-align: center;
+   }
+   .thirdDiv{
+    text-align: center;
+   }
+   .fourthDiv{
+    /* border: 1px solid black; */
+    width: 20vw !important;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+     padding: 10px 0;
+}
+.secondDiv > input{
+    /* border: none; */
+    outline: none;
+    padding: 0.5vmax 1vmax;
+    font-size: 1vmax;
+    width:50vw !important;
+    height: 3vh !important;
+    margin-bottom: 0.5vmax;
+}
+  
+}
 .secondDiv > input{
     /* border: none; */
     outline: none;

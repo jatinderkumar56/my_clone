@@ -4,6 +4,11 @@
     align-items: center;
     justify-content: center;
 }
+@media screen and (max-width:768px){
+    .hotaccess{
+        display: none;
+    }
+}
 .heading div{
     background-color: rgb(77,77,77);
     height: 1px;

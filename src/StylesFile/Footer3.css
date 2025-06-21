@@ -1,6 +1,13 @@
 .allmain{
     background-color: rgb(37,37,37);
 }
+
+
+@media screen and (max-width: 768px) {
+    .allmain{
+        display: none;
+    }
+}
 .allmain> :last-child>div{
   height: 0.05vmax;
   margin: 0 5vmax;

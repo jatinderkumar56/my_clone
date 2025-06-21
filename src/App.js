@@ -22,13 +22,14 @@ function App() {
    
     
     <Router>
+    <div className='app-container'>
     <AboveNavbar/>
     <Navbar/>
     <Slider start={data.banner.start} />
     <Offer offer={data.offer}/>
-    <Heading title='STAR PRODUCTS'/>
+    <Heading className='staraccess'  title='STAR PRODUCTS'/>
     <StarProduct starProduct={data.starProduct}/>
-    <Heading title='HOT ACCESSORIES'/>
+    <Heading className='hotaccess' title='HOT ACCESSORIES'/>
     <HotAccessoriesMenu/>
     <Routes>
     <Route exact path='/music' element={<HotAccessories music={data.hotAccessories.music}  musicCover={data.hotAccessoriesCover.music}/> }/>
@@ -38,17 +39,18 @@ function App() {
     <Route exact path='/mobileaccess' element={<HotAccessories mobileAccessories={data.hotAccessories.mobileAccessories}  mobileAccessoriesCover={data.hotAccessoriesCover.mobileAccessories}/> }/>
     </Routes>
 
-    <Heading title='PRODUCT REVIEWS'/>
+    <Heading className='reviewaccess' title='PRODUCT REVIEWS'/>
     <ProductReview productreview={data.productReviews}/>
-    <Heading title='VIDEOS'/>
+    <Heading className='videoaccess' title='VIDEOS'/>
     <Videos videos={data.videos}/>
-    <Heading title='IN THE PRESS'/>
+    <Heading className='pressaccess' title='IN THE PRESS'/>
     <Banner end={data.banner.end}/>
 
     <Footer1/>
     <Footer2/>
     <Footer3 footer={data.footer}/>
-    
+    <Footer4/>
+    </div>
     </Router>
 
 
@@ -58,6 +60,3 @@ function App() {
 }
 
 export default App;
-// <Route >
-//  <HotAccessories music={data.hotAccessories.music}  musicCover={data.hotAccessoriesCover.music}/>  
-//     </Route>

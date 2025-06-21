@@ -300,33 +300,33 @@
       },
       "offer": [
             {
-                  "url": "https://in.event.mi.com/in/offer-with-mi",
+                  "url": "/",
                   "image": "https://i02.appmifile.com/31_operator_in/25/04/2021/37529e4f2964c9b26a671172950096ae.jpg?width=398&height=230"
             },
             {
-                  "url": "https://in.event.mi.com/in/work-from-home-essentials",
+                  "url": "/",
                   "image": "https://i02.appmifile.com/884_operator_in/30/05/2021/1e91f02cd9aca02f7caf3c5ddadd2747.jpg?width=398&height=230"
             },
             {
-                  "url": "https://xiaomi.giveindia.org/",
+                  "url": "/",
                   "image": "https://i02.appmifile.com/761_operator_in/27/04/2021/09489d6a77f96111372718a551d2799d.png?width=398&height=230"
             }
       ],
       "starProduct": [
             {
-                  "url": "https://www.mi.com/in/power-banks",
+                  "url": "/",
                   "image": "https://i02.appmifile.com/427_operator_in/09/05/2021/4cedd9d52d3d66e09ee27dde3914efe1.jpg?width=612&height=612"
             },
             {
-                  "url": "https://store.mi.com/in/item/3203500001",
+                  "url": "/",
                   "image": "https://i02.appmifile.com/341_operator_in/30/05/2021/e866f96094c058af222f53bc97bcb5ed.jpg?width=612&height=612"
             },
             {
-                  "url": "https://store.mi.com/in/item/3192900017",
+                  "url": "/",
                   "image": "https://i02.appmifile.com/402_operator_in/15/04/2021/d6d00b5cb2a212f4a9a13d4d7c1bdcc1.png?width=612&height=612"
             },
             {
-                  "url": "https://www.mi.com/in/bands-fitness",
+                  "url": "/",
                   "image": "https://i02.appmifile.com/571_operator_in/22/10/2020/2df7eba98e739b3329dda041b05a0aac.jpg?width=612&height=612"
             }
       ],
@@ -511,97 +511,97 @@
             "support": [
                   {
                         "name": "Online Help",
-                        "url": "https://www.mi.com/in/service/help/#category_id=1&pagenum=1&channel=1"
+                       "url": "/"
                   },
                   {
                         "name": "Customer Service",
-                        "url": "https://www.mi.com/in/service/online/"
+                         "url": "/"
                   },
                   {
                         "name": "Shipping FAQ",
-                        "url": "https://www.mi.com/in/service/shipping/"
+                        "url": "/"
                   },
                   {
                         "name": "Service Centres",
-                        "url": "https://www.mi.com/in/service/repair/"
+                       "url": "/"
                   },
                   {
                         "name": "Warrenty",
-                        "url": "https://www.mi.com/in/service/warranty/"
+                        "url": "/"
                   },
                   {
                         "name": "Mi Exchange",
-                        "url": "https://www.mi.com/in/miexchange/"
+                        "url": "/"
                   },
                   {
                         "name": "Bulk Order",
-                        "url": "https://www.mi.com/in/bulkbuy/"
+                        "url": "/"
                   },
                   {
                         "name": "User Guide",
-                        "url": "https://www.mi.com/in/service/userguide/"
+                     "url": "/"
                   },
                   {
                         "name": "Laptop Drivers",
-                        "url": "https://www.mi.com/in/service/support/laptop-drivers.html"
+                         "url": "/"
                   },
                   {
                         "name": "Mi Screen Protect",
-                        "url": "https://www.mi.com/in/service/miphoneprotection/#miscreenprotect"
+                        "url": "/"
                   },
                   {
                         "name": "Mi Extended Warranty",
-                        "url": "https://www.mi.com/in/service/miextendedwarranty/"
+                   "url": "/"
                   }
             ],
             "shopAndLearn": [
                   {
                         "name": "Mi 10i",
-                        "url": "https://www.mi.com/in/mi-10i/"
+                         "url": "/"
                   },
                   {
                         "name": "Mi 10T Series",
-                        "url": "https://in.event.mi.com/in/mi-10t-series"
+                         "url": "/"
                   },
                   {
                         "name": "Mi 11 Ultra",
-                        "url": "https://www.mi.com/in/mi-11-ultra/"
+                         "url": "/"
                   },
                   {
                         "name": "Mi 11X",
-                        "url": "https://www.mi.com/in/mi-11x/"
+                     "url": "/"
                   },
                   {
                         "name": "Mi 11X Pro",
-                        "url": "https://www.mi.com/in/mi-11x-pro/"
+                        "url": "/"
                   },
                   {
                         "name": "Redmi 8",
-                        "url": "https://www.mi.com/in/redmi-8/"
+                         "url": "/"
                   },
                   {
                         "name": "Redmi 9",
-                        "url": "https://www.mi.com/in/redmi-9/"
+                       "url": "/"
                   },
                   {
                         "name": "Redmi 9 Prime",
-                        "url": "https://www.mi.com/in/redmi-9-prime/"
+                         "url": "/"
                   },
                   {
                         "name": "Redmi 9i",
-                        "url": "https://www.mi.com/in/redmi-9i/"
+                         "url": "/"
                   },
                   {
                         "name": "Redmi 9A",
-                        "url": "https://www.mi.com/in/redmi-9a/"
+                        "url": "/"
                   },
                   {
                         "name": "Redmi Note 10",
-                        "url": "https://www.mi.com/in/redmi-note-10/"
+                         "url": "/"
                   },
                   {
                         "name": "Redmi Note 10 Pro",
-                        "url": "https://www.mi.com/in/redmi-note-10-pro/"
+                         "url": "/"
                   }
               
                  
@@ -609,71 +609,71 @@
             "retailStore": [
                   {
                         "name": "Mi Home",
-                        "url": "https://www.mi.com/in/service/mihome/"
+                         "url": "/"
                   },
                   {
                         "name": "Mi Authorised Stores",
-                        "url": "https://www.mi.com/in/service/authorized_stores/"
+                        "url": "/"
                   }
             ],
             "aboutUS": [
                   {
                         "name": "Xioami",
-                        "url": "https://www.mi.com/in/about/"
+                        "url": "/"
                   },
                   {
                         "name": "Mediakit",
-                        "url": "https://www.mi.com/in/mediakit/"
+                        "url": "/"
                   },
                   {
                         "name": "Culture",
-                        "url": "https://www.mi.com/in/about/#culture"
+                         "url": "/"
                   },
                   {
                         "name": "User Agreement",
-                        "url": "https://www.mi.com/in/about/agreement/"
+                        "url": "/"
                   },
                   {
                         "name": "Privacy Policy",
-                        "url": "https://www.mi.com/in/about/privacy/"
+                        "url": "/"
                   },
                   {
                         "name": "Declarations",
-                        "url": "https://www.mi.com/in/service/support/mideclare.html"
+                         "url": "/"
                   },
                   {
                         "name": "Integrity & Compliance",
-                        "url": "https://integrity.mi.com/global"
+                       "url": "/"
                   },
                   {
                         "name": "Smartphone Quality",
-                        "url": "https://www.mi.com/in/smartphone-quality/"
+                        "url": "/"
                   },
                   {
                         "name": "TV Quality",
-                        "url": "https://www.mi.com/in/tv-quality/"
+                         "url": "/"
                   },
                   {
                         "name": "Service Quality",
-                        "url": "https://www.mi.com/in/service-quality/"
+                         "url": "/"
                   },
                   {
                         "name": "Environment",
-                        "url": "https://www.mi.com/in/service/support/ewastetakeback.html"
+                         "url": "/"
                   },
                   {
                         "name": "Sitemap",
-                        "url": "https://www.mi.com/in/sitemap"
+                         "url": "/"
                   }
             ],
             "contactUs": [
                   {
                         "name": "Email",
-                        "url": "https://in.event.mi.com/in/questionnaire/email_us"
+                        "url": "/"
                   },
                   {
                         "name": "Careers",
-                        "url": "https://www.mi.com/in/about/#career"
+                         "url": "/"
                   }
             ]
       }

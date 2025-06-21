@@ -3,6 +3,11 @@
     justify-content: center;
     align-items: center;
 }
+@media screen and (max-width: 768px) {
+    .hotaccessories{
+        display: none;
+    }
+}
 .accessLink{
     text-decoration: none;
     color: black;

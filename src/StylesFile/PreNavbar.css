@@ -1,10 +1,15 @@
 .preNav{
     background-color: hsl(0,2%,11%);
+    /* background-color: white; */
     display:grid;
     grid-template-columns: 5fr 2fr;
-    /* z-index: 1000; */
+    
 }
-
+@media screen and (max-width: 768px) {
+  .preNav{
+    display: flex;
+}
+  }
 .preNav > div{
      /* top,right,bottom ,left; (top,bottom)(left,right) */
      padding: 0 4vmax;
@@ -12,6 +17,11 @@
      align-items: center;
      /* border: 2px solid red; */
 }
+@media screen and (max-width: 768px) {
+  .preNav > div{
+   flex:1
+}
+  }
 .preNav > div > span{
     color: red;
     font-size: 0.8vmax;

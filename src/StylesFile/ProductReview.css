@@ -4,6 +4,15 @@
     justify-content: center;
     align-items: center;
 }
+@media screen and (max-width: 768px) {
+  .productreview {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+}
 .reviewcard h5{
     color: rgb(77,77,77);
     /* padding: 2vmax; */
