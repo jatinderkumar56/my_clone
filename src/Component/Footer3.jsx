@@ -41,7 +41,7 @@ const Footer3 = ({footer}) => {
     </div>
     <div className='footer4main'>
     <div></div>
-    <p>Copyright © 2010 - 2021 Xiaomi. All Rights Reserved</p>
+    <p>Copyright © 2025 - 2026 Xiaomi. All Rights Reserved</p>
     </div>
     </div>
    
